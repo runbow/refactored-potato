@@ -1,6 +1,6 @@
-# Simple Blog
+# refractored Potato
 
-Tugas 1 IF3110.
+Another piece of potato.
 
 ![Simple Blog](http://i655.photobucket.com/albums/uu275/sonnylazuardi/ss-5.jpg)
 
